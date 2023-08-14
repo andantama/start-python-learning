@@ -1,2 +1,4 @@
-Leader: Daneo
+Leader: Danprata
 Crew 1: Rere
+Crew 2: Rara
+Newcomer: Dyaksa
