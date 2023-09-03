@@ -1,4 +1,5 @@
 Leader: Danprata
 Crew 1: Rere
 Crew 2: Rara
-Newcomer: Dyaksa
+Crew 3: Dyaksa
+Finance: Asmara
