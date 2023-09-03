@@ -1,6 +1,6 @@
-Leader: Danprata
-Crew 1: Rere
+CEO: Danprata
+CFO: Lianti
 Crew 2: Rara
 Crew 3: Dyaksa
-Finance: Asmara
+Finance Team: Asmara
 Project Manager: Aksa
